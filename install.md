@@ -1,7 +1,5 @@
 ---
 layout: page
-title: "About"
-permalink: /about/
 ---
 
 whiteglass is a minimal, responsive Jekyll theme for hackers.
