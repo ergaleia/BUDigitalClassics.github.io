@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: BU Digital Classics
-author: Boston University
+author: Daniel Libatique and Ryan Pasco
 description: A website for digital resources and projects in the Department of Classical Studies at Boston University.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://BUDigitalClassics.github.io" # the base hostname & protocol for your site, e.g. http://example.com
