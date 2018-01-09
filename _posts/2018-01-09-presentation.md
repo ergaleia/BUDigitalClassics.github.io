@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /presentation/
 ---
 
 # Proseminar: Digital Tools for Classicists (January 2018)
