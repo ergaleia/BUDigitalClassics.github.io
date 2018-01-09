@@ -9,7 +9,7 @@ At the 2018 AIA/SCS Annual Meeting in Boston, there was a day-long workshop enti
 This list is by no means exhaustive, as there were many other projects and environments highlighted, including:
 1. the [LACE OCR project](http://heml.mta.ca/lace) (see Daniel's Tweet thread [here](https://twitter.com/DLibatique10/status/948587778190782464)),  
 2. the [Ugarit Translation Aligner tool](http://ugarit.ialigner.com),  
-3. the new and improved [Logeion web and app interfaces](http://logeion.uchicago.edu) (see Daniel's Tweet thread [here](https://twitter.com/DLibatique10/status/949679623176183808),  
+3. the new and improved [Logeion web and app interfaces](http://logeion.uchicago.edu) (see Daniel's Tweet thread [here](https://twitter.com/DLibatique10/status/949679623176183808)),  
 4. the [Homer Multitext Project](http://www.homermultitext.org), now coming up on a full first edition of the Venetus A,  
 5. the new and improved [Alpheios suite of reading tools](http://alpheios.net),  
 6. [ToPan and Melete](https://thomask81.github.io/ToPan/), topic modeling tools,  
