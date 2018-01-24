@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Us
+keywords: digital, classics, pedagogy, DH, humanities
 permalink: /about/
 published: true
 ---
