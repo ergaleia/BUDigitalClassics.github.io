@@ -7,37 +7,34 @@ permalink: /resources
 This is a listing of digital tools that Classicists and archaeologists can use in their research and teaching.
 
 # Quick links
-[**Textual Analysis**](#textual-analysis):  
-[LACE](#lace) // [Ugarit Translation Aligner](#ugarit-translation-aligner) // [Logeion](#logeion) // [Homer Multitext Project](#homer-multitext-project) // [Alpheios](#alpheios) // [ToPan and Melete](#topan-and-melete) // [Classical Language Toolkit](#classical-language-toolkit) // [Quantitative Criticsm Lab](#quantitative-criticism-lab)  
-[**Pedagogy**](#pedagogy):  
-[Bridge](#bridge) // [Hedera](#hedera)  
-[**Material Culture**](#material-culture):  
-[OpenARCHEM](#openarchem) // [WIRE Project](#wire-project)  
-[**Mapping / Geography**](#mapping---geography):  
-[Gephi](#gephi) // [Pleaides Project](#pleaides-project)  
+[**Textual Analysis**](#textual-analysis) // [**Pedagogy**](#pedagogy) // [**Material Culture**](#material-culture) // [**Mapping / Geography**](#mapping---geography) 
 
 ## Textual Analysis 
 
-### LACE
-### Ugarit Translation Aligner
-### Logeion
-### Homer Multitext Project
-### Alpheios
-### ToPan and Melete
-### Classical Language Toolkit
-### Quantitative Criticism Lab
+### Ugarit Translation Aligner (Daniel)
+### Classical Language Toolkit (Daniel)
+### Quantitative Criticism Lab (Ryan)
 
 ## Pedagogy
 
-### Bridge
-### Hedera
+### Bridge (Daniel)
+### Hedera (Ryan)
+### Scaife Viewer / Perseus 5.0 (Ryan)
 
 ## Material Culture
 
-### OpenARCHEM
-### WIRE Project
+### OpenARCHEM (Daniel)
+### WIRE Project (Ryan)
 
 ## Mapping / Geography
 
-### Gephi
-### Pleiades Project
+### ToposText (Daniel)
+### Pleiades Project (Ryan)
+
+**BY FEBRUARY 6TH!!!**
+
+(((( "these are the things that we have found personally useful for our own scholarship and pedagogy, but there are many other things out there; not a be-all and end-all, these are good things for entry-level, basic needs in Classics/archaeology" ))))
+(((( screenshot, sentence blurb, and why it's useful ))))
+(((( eventually, thematic posts that highlight other projects with links to the main page ))))
+(((( broad sense of what's out there -- list is not exhaustive; links to similar projects (e.g. Perseus, Logeion, Alpheios) ))))
+(((( Homer Multitext, LACE, Logeion, Alpheios ))))
