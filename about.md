@@ -4,7 +4,7 @@ title: "About Us"
 permalink: /about/
 ---
 
-This page was created by Daniel Libatique and Ryan Pasco, graduate students in the [Department of Classical Studies at Boston University](http://www.bu.edu/classics/).
+This page was created by Daniel Libatique and Ryan Pasco, graduate students in the [Department of Classical Studies at Boston University](http://www.bu.edu/classics/). (Some sort of narrative about the two of us, our interest in DH, and the purpose of the page.) (Twitter integration.)
 
 ### Daniel Libatique <a href="https://twitter.com/DLibatique10?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @DLibatique10</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <img src="https://budigitalclassics.github.io/images/dlibatique_circle.png" align="left" alt="Daniel" style="width: 135px; margin: 0px 10px 0px 0px;"/>
