@@ -1,10 +1,12 @@
 ---
 layout: page
-title: "About Us"
+title: About Us
+keywords: digital, classics, pedagogy, DH, humanities
 permalink: /about/
+published: true
 ---
 
-This page was created by Daniel Libatique and Ryan Pasco, graduate students in the [Department of Classical Studies at Boston University](http://www.bu.edu/classics/). (Some sort of narrative about the two of us, our interest in DH, and the purpose of the page.) (Twitter integration.)
+Daniel Libatique and Ryan Pasco, graduate students in Boston University's [Department of Classical Studies](http://www.bu.edu/classics/), have long been interested in digital tools for Classics, but were left to their own devices as to what tools were available or how they could be applied in a classroom setting. Keeping the beginner in mind, Daniel and Ryan created *ergaleia*, an abbreviated list of digital tools for the classicist that emphasizes utility and application rather than functionality, though the list includes a broad range of functionalities. They hope that this list, along with the accompanying blog, will help those interested in digital tools gain a sense of what's available and how to apply this knowledge to teaching and research. For recent updates, follow *ergaleia* on [Twitter](http://twitter.com/ta_ergaleia).
 
 ### Daniel Libatique <a href="https://twitter.com/DLibatique10?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @DLibatique10</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <img src="https://budigitalclassics.github.io/images/dlibatique_circle.png" align="left" alt="Daniel" style="width: 135px; margin: 0px 10px 0px 0px;"/>
@@ -12,4 +14,4 @@ Daniel is in his sixth year, writing a dissertation entitled *Tereus, Procne, an
 
 ### Ryan Pasco <a href="https://twitter.com/rympasco?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @rympasco</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <img src="https://budigitalclassics.github.io/images/rympasco_circle.png" align="left" alt="Ryan" style="width: 135px; margin: 0px 10px 0px 0px;"/>
-Ryan is a second year Ph.D. student. He earned his B.A. in Classical Studies — Ancient Languages in 2015 from Lewis & Clark College. His academic interests include Old Comedy, writing the self, metapoetics/-literature, and digital humanist approaches to scholarship. In his free time, Ryan trains Parkour, practices trapeze, and plays tabletop games. You can find him on Github [here](https://github.com/rympasco).
+Ryan is a second year Ph.D. student. His academic interests include Old Comedy, writing the self, metapoetics/-literature, and digital humanist approaches to scholarship. In his free time, Ryan trains Parkour, practices trapeze, and plays tabletop games. You can find him on Github [here](https://github.com/rympasco).
