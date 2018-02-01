@@ -33,8 +33,10 @@ This is a listing of digital tools that Classicists and archaeologists can use i
 ### 2. Hedera (Ryan)
 ### 3. Scaife Viewer / Perseus 5.0 (coming soon)
 
-![Perseus5](/images/scaife_viewer_2.png)
-**What:** The Scaife Viewer/Perseus 5.0 offers a substantial upgrade from current iteration of Perseus. The tool will feature a clean, customizable reading environment for ancient texts with facing translations. The user can highlight words or passages of interest in the text and instantly share their annotations or save them for later. As before, words in passages link directly to a lemma and relevant dictionary entries; in addition to parsing forms, the user can now review conjugations and declensions with grammar tables for specific lemmas. The accompanying Vocabulary Tool can create word frequency lists for the entire corpus, specific authors, works, or even sections of works. By making an account, users can track the passages they have read and vocabulary encountered and generate flashcards to reinforce new vocabulary. 
+![Perseus5](/images/SCAIFE_viewer_2.png)
+
+**What:** The Scaife Viewer/Perseus 5.0 offers a substantial upgrade from current iteration of Perseus. The tool will feature a clean, customizable reading environment for ancient texts with facing translations. The user can highlight words or passages of interest in the text and instantly share their annotations or save them for later. As before, words in passages link directly to a lemma and relevant dictionary entries; in addition to parsing forms, the user can now review conjugations and declensions with grammar tables for specific lemmas. The accompanying Vocabulary Tool can create word frequency lists for the entire corpus, specific authors, works, or even sections of works. By making an account, users can track the passages they have read and vocabulary encountered and generate flashcards to reinforce new vocabulary.
+ 
 **Uses:** Perseus 5.0 has a number of potential pedagogical uses. A few: it is a great reading tool for those without access to texts, and so great for language-learning courses where cost of materials is a concern; the improved frequency list generation can be tailored to, for example, an entire PhD reading list or a seminar’s readings and so help a student prepare for coursework or exams. As a researcher, text highlighting will make marking and retrieving texts a breeze – all you need is a link.
 
 ## <a name="material-culture">Material Culture</a>
