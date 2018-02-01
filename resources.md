@@ -31,7 +31,13 @@ This is a listing of digital tools that Classicists and archaeologists can use i
 
 ## <a name="pedagogy">Pedagogy</a>
 
-### 1. Bridge (Daniel)
+### 1. [Bridge](http://bridge.haverford.edu)
+
+![Bridge](/images/bridge.png)
+
+**What**: The Bridge generates vocabulary lists for a given Latin or Greek text or textbook with many customization features. You can base the list on a specific passage or textbook chapter, exclude terms that appear in other parts of the work/textbook or other works entirely, include statistics for the frequency of the term in the work under consideration, limit a list to certain parts of speech, link out to the full dictionary entry in Logeion, and so on!  
+**Uses**: The Bridge aims at building a student or reader's vocabulary knowledge by providing a *bridge* from what the student/reader doesn't know to what the student/reader does. I (Daniel) have personally used Bridge to generate vocabulary lists for Intermediate Greek students reading Homer for the first time, and it has been very useful to have a discrete set of vocabulary items for each assignment. The Bridge is constantly adding new texts and textbooks for use from the first semester of a language into advanced seminars; the recent addition of Seneca's *de Ira* and *de Constantia* just pushed the Latin corpus past 500,000 words.
+
 ### 2. Hedera (Ryan)
 ### 3. Scaife Viewer / Perseus 5.0 (coming soon)
 
