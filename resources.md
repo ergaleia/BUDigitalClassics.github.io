@@ -50,7 +50,14 @@ This is a listing of digital tools that Classicists and archaeologists can use i
 
 ## <a name="material-culture">Material Culture</a>
 
-### 1. OpenARCHEM (Daniel)
+### 1. [OpenARCHEM](http://openarchem.org)
+
+![OpenARCHEM](/images/openarchem.png)
+
+**What:** OpenARCHEM is a database (currently being built) for objects and compounds involved in archaeometry, the application of scientific techniques from fields like chemistry to inquiries into material culture. Each entry can link out as appropriate to other datasets like Dr. Duke's Phyochemical and Ethnobotanical Databases, Flora of Israel Online, and the National Institute of Standards and Technology's Chemistry WebBook for further, more detailed information on any given substance or material.  
+
+**Uses:** This database will be useful for 
+
 ### 2. WIRE Project (Ryan)
 
 ## <a name="mapping-geography">Mapping and Geography</a>
