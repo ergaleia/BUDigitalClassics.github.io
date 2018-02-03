@@ -4,7 +4,7 @@ title: "Resources"
 permalink: /resources/
 ---
 
-This is a listing of digital tools that Classicists and archaeologists can use in their research and teaching.
+This is a listing of digital tools that we have found personally useful in our own research and pedagogy. There are *many* other digital tools out there for Classicists and archaeologists; this list is by no means exhaustive or comprehensive. Our goal is to provide a short annotated list of basic tools that fulfill basic needs in Classical scholarship or teaching. Other resources will be added as time goes on, some accompanied by a longer explanatory post on the *ergaleia* blog.
 
 # Quick links
 [**Textual Analysis**](#textual-analysis) // [**Pedagogy**](#pedagogy) // [**Material Culture**](#material-culture) // [**Mapping / Geography**](#mapping-geography) 
@@ -46,7 +46,7 @@ This is a listing of digital tools that Classicists and archaeologists can use i
 
 **What:** The Scaife Viewer/Perseus 5.0 offers a substantial upgrade from current iteration of Perseus. The tool will feature a clean, customizable reading environment for ancient texts with facing translations. The user can highlight words or passages of interest in the text and instantly share their annotations or save them for later. As before, words in passages link directly to a lemma and relevant dictionary entries; in addition to parsing forms, the user can now review conjugations and declensions with grammar tables for specific lemmas. The accompanying Vocabulary Tool can create word frequency lists for the entire corpus, specific authors, works, or even sections of works. By making an account, users can track the passages they have read and vocabulary encountered and generate flashcards to reinforce new vocabulary.
 
-**Uses:** Perseus 5.0 has a number of potential pedagogical uses. A few: it is a great reading tool for those without access to texts, and so great for language-learning courses where cost of materials is a concern; the improved frequency list generation can be tailored to, for example, an entire PhD reading list or a seminar’s readings and so help a student prepare for coursework or exams. As a researcher, text highlighting will make marking and retrieving texts a breeze – all you need is a link.
+**Uses:** Perseus 5.0 has a number of potential pedagogical uses. A few: it is a great reading tool for those without access to texts, and so great for language-learning courses where cost of materials is a concern; the improved frequency list generation can be tailored to, for example, an entire PhD reading list or a seminar’s readings and so help a student prepare for coursework or exams. As a researcher, text highlighting will make marking and retrieving texts a breeze – all you need is a link.  
 
 ## <a name="material-culture">Material Culture</a>
 
@@ -54,15 +54,22 @@ This is a listing of digital tools that Classicists and archaeologists can use i
 
 ![OpenARCHEM](/images/openarchem.png)
 
-**What:** OpenARCHEM is a database (currently being built) for objects and compounds involved in archaeometry, the application of scientific techniques from fields like chemistry to inquiries into material culture. Each entry can link out as appropriate to other datasets like Dr. Duke's Phyochemical and Ethnobotanical Databases, Flora of Israel Online, and the National Institute of Standards and Technology's Chemistry WebBook for further, more detailed information on any given substance or material.  
+**What:** OpenARCHEM is a database (currently being built) for organic objects and compounds involved in archaeometry, the application of scientific techniques from fields like chemistry to inquiries into material culture. Each entry can link out as appropriate to other datasets like Dr. Duke's Phyochemical and Ethnobotanical Databases, Flora of Israel Online, and the National Institute of Standards and Technology's Chemistry WebBook for further, more detailed information on any given substance or material.  
 
-**Uses:** This database will be useful for 
+**Uses:** This database will be useful for a different perspective on material culture that can both enrich existing scholarship and open up new areas. There are also opportunities for collaboration and contribution from specialists and non-specialists alike, as each database entry constitutes a publication with a DOI and publication credits indexed in Google Scholar; one can envision fruitful opportunities for, e.g., undergraduates to create an entry for openARCHEM as a term project. More information can be found at the [openARCHEM WordPress site](https://openarchem.wordpress.com).
 
 ### 2. WIRE Project (Ryan)
 
 ## <a name="mapping-geography">Mapping and Geography</a>
 
-### 1. ToposText (Daniel)
+### 1. [ToposText](http://topostext.org)
+
+![ToposText](/images/topostext.png)
+
+**What:** ToposText, a 2016 Digital Humanities Award winner for Best Public Engagement, is a library of ancient texts keyed to a dedicated gazetteer, available via desktop or a mobile app (on iOS or Google). Any given place name includes a modern description of the site; metadata like latitude, longitude, and region; and a list of textual references to the site.  
+
+**Uses:** ToposText helps a scholar or student visualize an ancient site in its larger geographic context. You can search by a specific place name and see its context on a map and the ancient passages that mention it, or you can begin from the level of the text: clicking on a title brings you to the text itself with people and place names hyperlinked to ToposText entries. These features lend themselves to both geographic and textual study; for example, a reference to an importance place like Mycenae can lead a student to looking up all instances in the ToposText textual canon that mention Mycenae, allowing the student to draw connections or pursue a line of connection previously unconsidered.
+
 ### 2. Pleiades Project (Ryan)
 
 **BY FEBRUARY 6TH!!!**
