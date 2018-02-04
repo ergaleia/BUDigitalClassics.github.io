@@ -3,7 +3,7 @@ layout: post
 permalink: /presentation/
 ---
 
-# Proseminar: Digital Tools for Classicists (January 2018)
+# Proseminar: Digital Tools for Classicists (February 2018)
 
 At the 2018 AIA/SCS Annual Meeting in Boston, there was a day-long workshop entitled Ancient MakerSpaces ([#AncMakers](https://twitter.com/search?q=%23AncMakers&src=typd "#AncMakers")), organized by Patrick Burns of ISAW ([@diyclassics](https://twitter.com/diyclassics "diyclassics")). The workshop was, as described by Pat in a tweet, "designed to introduce participants to and [get] them started with digital resources & methods in classics/archaeology/etc. as well as to showcase solid scholarship in this area." There was also a pre-AIA/SCS day-long workshop at Tufts on the Open Greek and Latin project which also showcased a lot of interesting scholarship and digital tools. There were a number of awesome tools and reading/learning environments showcased each day to which we wanted to bring your attention for use in your own pedagogy or scholarship. 
 
