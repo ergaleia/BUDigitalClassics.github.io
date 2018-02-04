@@ -53,7 +53,7 @@ This is a listing of digital tools that we have found personally useful in our o
 
 ### 3. Scaife Viewer / Perseus 5.0 (coming soon)
 
-![Perseus5](/images/scaife.png)
+![Perseus5](/images/scaife.PNG)
 
 **What:** The Scaife Viewer/Perseus 5.0 offers a substantial upgrade from current iteration of Perseus. The tool will feature a clean, customizable reading environment for ancient texts with facing translations. The user can highlight words or passages of interest in the text and instantly share their annotations or save them for later. As before, words in passages link directly to a lemma and relevant dictionary entries; in addition to parsing forms, the user can now review conjugations and declensions with grammar tables for specific lemmas. The accompanying Vocabulary Tool can create word frequency lists for the entire corpus, specific authors, works, or even sections of works. By making an account, users can track the passages they have read and vocabulary encountered and generate flashcards to reinforce new vocabulary.
 
