@@ -26,11 +26,19 @@ This is a listing of digital tools that Classicists and archaeologists can use i
 **Uses:** The sky's the limit. CLTK includes tools that can be applied both in pedagogic and research contexts. For example, in a classroom setting, the macronizer can help you generate a paragraph of Latin for first-semester students on a homework assignment or exam, and the lemmatizers can help you create vocabulary lists for difficult passages. In scholarship, the tokenizers allow you to perform word searches or concurrences of words across large corpora through n-grams. CLTK also invites collaborators to contribute to the project in whatever way they can, in terms of writing or editing code, notifying the team about bugs or issues, etc.
 
 ### 3. Quantitative Criticism Lab (Ryan)
+![QCL](/images/QCL.PNG) 
+**What:** Designed by UT-Austin's [Quanitative Criticism Lab](https://qcrit.org), this stylometric tool allows the user to analyze Latin texts from Ennius to Neo-Latin based on twenty-nine stylistic criteria &mdash; use of personal pronouns, mean sentence length, and frequency of relative clauses, to name a few. The user can choose any mixture of authors, works, and sections from the tool's extensive text list, select specific stylistic crtiteria, and receive downloadable data tables and graphs. In the future, the user will be able to load their own texts and compare with items from the database on stylometric grounds.
+
+**Uses:** This tool offers a convenient way to answer complicated research questions. For example, a researcher could examine stylistic variations throughout an author's career or examine generic differences through a computational account of style. One could also upload multiple editions of the same text and compare their sentence/clause lengths in order to study manuscript punctuation. The tool has pedagogical functions as well. A prose-composition student tasked with composing in the manner of Cicero could upload their text and receive instant feedback across categories. Further, a PhD student learning to identify Latin authors on stylistic grounds might benefit greatly from QCL's tool.
 
 ## <a name="pedagogy">Pedagogy</a>
 
 ### 1. Bridge (Daniel)
-### 2. Hedera (Ryan)
+### 2. Hedera (coming soon)
+**What:** Hedera is a Latin-learning tool that functions as a personalized Latin vocabulary database and readability gauge. The site allows the user to upload a list their known vocabulary; the user can upload any Latin text and Hedera will assess the difficulty of a passage based on the reader's known vocabulary and flag unfamiliar words and their relative frequency. Hedera allows the reader to encounter new, high-frequency Latin words in context under optimal conditions for learning (in passages of 90+% readability). Planned future features include a reading environment, a set of pre-loaded texts, and the ability to automatically transfer words to known vocabulary after a predetermined number of encounters.
+
+**Uses:** Hedera has great potential as a pedagogical tool. A Latin instructor might track vocabulary encountered in a Latin textbook and use that information to assess the difficulty of and appropriate glosses for quiz or exam passages. Further, an entire introductory Latin course could be designed around reading Latin texts assessed by Hedera for optimal vocabulary-acquisition with grammar lessons provided by the instructor.
+
 ### 3. Scaife Viewer / Perseus 5.0 (coming soon)
 
 ![Perseus5](/images/scaife.png)
@@ -42,12 +50,24 @@ This is a listing of digital tools that Classicists and archaeologists can use i
 ## <a name="material-culture">Material Culture</a>
 
 ### 1. OpenARCHEM (Daniel)
-### 2. WIRE Project (Ryan)
+### 2. [WIRE Project](http://wireproject.org)
+
+![WIRE](/images/wire.PNG)
+
+**What:** The WIRE Project responds to a gap in scholarship with this database of information about women's lives in the Roman Near East. The site presents a variety of sources &mdash; text, inscriptions, coins, sculpture, etc. &mdash; in an easily searchable that is accessible to scholars and the general public. In the works are [tutorial modules](http://wireproject.org/pedagogy) for non-experts; these modules will discuss particular types of artifacts or thematic topics that incorporate objects from the WIRE Project's collection. Future versions may incorporate improved keyword searches and the ability to chart objects along a timeline. In the works are pedagogical
+
+**Uses:** By collecting a wide array of source types, the WIRE Project facilitates research into a variety of subjects: women's lives, ancient economy, provincial life, Roman conception of gender, to name a few. As for the classroom, information from the database could flesh out a lecture in an introductory Roman civilization course or add understudied material to a course on women in antiquity. The WIRE Project's user-friendly design and comprehensive nature could make it a compelling focus of group projects or independent student research. 
 
 ## <a name="mapping-geography">Mapping and Geography</a>
 
 ### 1. ToposText (Daniel)
 ### 2. Pleiades Project (Ryan)
+
+![Pleiades](/images/pleiades.PNG)
+
+**What:**
+
+**Uses:**
 
 **BY FEBRUARY 6TH!!!**
 
