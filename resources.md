@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: "Resources"
 permalink: /resources/
@@ -85,20 +85,12 @@ This is a listing of digital tools that we have found personally useful in our o
 
 **What:** ToposText, a 2016 Digital Humanities Award winner for Best Public Engagement, is a library of ancient texts keyed to a dedicated gazetteer, available via desktop or a mobile app (on iOS or Google). Any given place name includes a modern description of the site; metadata like latitude, longitude, and region; and a list of textual references to the site.  
 
-**Uses:** ToposText helps a scholar or student visualize an ancient site in its larger geographic context. You can search by a specific place name and see its context on a map and the ancient passages that mention it, or you can begin from the level of the text: clicking on a title brings you to the text itself with people and place names hyperlinked to ToposText entries. These features lend themselves to both geographic and textual study; for example, a reference to an importance place like Mycenae can lead a student to looking up all instances in the ToposText textual canon that mention Mycenae, allowing the student to draw connections or pursue a line of connection previously unconsidered.
+**Uses:** ToposText helps a scholar or student visualize an ancient site in its larger geographic context. You can search by a specific place name and see its context on a map and the ancient passages that mention it, or you can begin from the level of the text: clicking on a title brings you to the text itself with people and place names hyperlinked to ToposText entries. These features lend themselves to both geographic and textual study; for example, a reference to an important place like Mycenae can lead a student to looking up all instances in the ToposText textual canon that mention Mycenae, allowing the student to draw connections or pursue a line of connection previously unconsidered.
 
-### 2. Pleiades Project (Ryan)
+### 2. [Pleiades Project](https://pleiades.stoa.org/)
 
 ![Pleiades](/images/pleiades.PNG)
 
-**What:**
+**What:** Pleiades is a gazeteer of the ancient world featuring entries for over 35,000 locations. Each entry is supplement with a wealth of information; under a place's page, Mycenae, for example, the user can find specific location within that place (the Treaury of Atreus, e.g.), other names for the place, connected locations, bibliography, and a stable reference number. All this data is available for reuse with proper attribution; a number of other projects, including ToposText (above) and [Antiquity À-la-carte](http://awmc.unc.edu/wordpress/alacarte/) employ this data for specialized purposes.
 
-**Uses:**
-
-**BY FEBRUARY 6TH!!!**
-
-(((( "these are the things that we have found personally useful for our own scholarship and pedagogy, but there are many other things out there; not a be-all and end-all, these are good things for entry-level, basic needs in Classics/archaeology" ))))
-(((( screenshot, sentence blurb, and why it's useful ))))
-(((( eventually, thematic posts that highlight other projects with links to the main page ))))
-(((( broad sense of what's out there -- list is not exhaustive; links to similar projects (e.g. Perseus, Logeion, Alpheios) ))))
-(((( Homer Multitext, LACE, Logeion, Alpheios ))))
+**Uses:** Pleiades allow the user to explore ancient geography in a straightforward and open-access format. Bibliographic references allow the user to delve into relevant scholarship. As Pleiades relies on contributions by knowledgeable volunteers, a valuable student project could consist of building a Pleiades entry for an archaeological site or supplmenting entries with ancient textual attestation. 
