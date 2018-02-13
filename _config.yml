@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: ergaleia // digital tools for classics
 author: Daniel Libatique and Ryan Pasco
-description: A website for digital resources and projects in the Department of Classical Studies at Boston University.
+description: A website for useful digital tools in Classics, both scholarly and pedagogic.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://ergaleia.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
