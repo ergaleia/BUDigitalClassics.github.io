@@ -1,5 +1,7 @@
 ---
 layout: post
+author:
+- Daniel Libatique & Ryan Pasco
 permalink: /presentation/
 ---
 
