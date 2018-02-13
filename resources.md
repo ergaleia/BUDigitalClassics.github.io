@@ -6,6 +6,8 @@ permalink: /resources/
 
 This is a listing of digital tools that we have found personally useful in our own research and pedagogy. There are *many* other digital tools out there for Classicists and archaeologists; this list is by no means exhaustive or comprehensive. Our goal is to provide a short annotated list of basic tools that fulfill basic needs in Classical scholarship or teaching. Other resources will be added as time goes on, some accompanied by a longer explanatory post on the *ergaleia* blog.
 
+If you are looking for a comprehensive listing of digital tools for Classics, feel free to consult the [Digital Classicist Wiki]('http://wiki.digitalclassicist.org/Category_Tools.html') and help contribute if you find new ones that aren't listed!
+
 # Quick links
 [**Textual Analysis**](#textual-analysis) // [**Pedagogy**](#pedagogy) // [**Material Culture**](#material-culture) // [**Mapping / Geography**](#mapping-geography) 
 
