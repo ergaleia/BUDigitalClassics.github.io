@@ -17,7 +17,7 @@ This list is by no means exhaustive, as there were many other projects and envir
 5. the new and improved [Alpheios suite of reading tools](http://alpheios.net),  
 6. [ToPan and Melete](https://thomask81.github.io/ToPan/), topic modeling tools,  
 7. [OpenARCHEM](http://openarchem.org), a repository for data for archaeometry (the study of archaeological material),  
-8. and the suite of lexicographical tools at the [Classical Language Toolkit](cltk.org).    
+8. and the suite of lexicographical tools at the [Classical Language Toolkit](http://cltk.org).    
 
 Time precludes us from going into detail about these, but feel free to follow the links and ask us questions about them; if we don't know the answers, we can point you towards those who do.
 
