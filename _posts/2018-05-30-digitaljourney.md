@@ -1,7 +1,6 @@
 ---
 layout: post
-author:
-- Daniel Libatique
+author: Daniel Libatique
 permalink: /digitaljourney/
 ---
 
@@ -32,9 +31,9 @@ At the time, I knew none of this backstory (and in fact, I still didn't know muc
 
 The idea of the dependency treebank was to annotate every sentence in our 40-ish line chunk of text in terms of main verbs, subjects, adjectives and which words they modify, participles and their relationship to a word in the sentence or the action of the sentence as a whole, and so on. This was an absolute *dream* of an assignment for a grammar nerd like me. What drew me into Classics in the first place was the languages; the inflections and paradigm charts and syntactic relationships really speak to the way that my mind works. I sometimes feel like I'd be just at home in a field like math or physics in that regard.
 
-The entry process was intuitive. For any given word in a sentence, dropdown menus allowed us to select the proper lemma (dictionary headword) for any given word with possible parsings (e.g., 1st sg. aor. act. ind. for ἔλυσα from the lemma λύω); we could also type in the proper lemma and parsing if Perseus' info was incorrect. Given that this was almost a decade ago, I can't find any screenshots of the treebanking interface as it was back then, but [Arethusa](https://www.perseids.org/tools/arethusa/app/#/), the treebanking interface's latest iteration from [Alpheios](https://alpheios.net), lets you create your own treebanks and annotations. (See below for a screenshot of Arethusa.)
+The entry process was intuitive. For any given word in a sentence, dropdown menus allowed us to select the proper lemma (dictionary headword) for any given word with possible parsings (e.g., 1st sg. aor. act. ind. for ἔλυσα from the lemma λύω); we could also type in the proper lemma and parsing if Perseus' info was incorrect. Given that this was almost a decade ago, I can't find any screenshots of the treebanking interface as it was back then, but [Arethusa](https://www.perseids.org/tools/arethusa/app/#/), the treebanking interface's latest iteration from [Alpheios](https://alpheios.net), lets you create your own treebanks and annotations. (See below for a screenshot of Arethusa.)
 
-This was/is close reading in its most fundamental form. Every word has to be accounted for, including all the little γε's and μέν's, and you have to make decisions about the relationships of words in a sentence, especially when there are a number of interpretations. I found participles particularly challenging. Properly, a participle is an adjectival form of a verb that syntactically modifies a noun, but its translation serves either only to modify that noun (in an attributive relationship, which would require me to tag the participle "ATR") or qualify the circumstances under which the main verb of the sentence is being performed (in a more adverbial sense, which would require me to tag the participle "ADV" and attach it to the main verb rather than the noun that it modifies; further, if the participle is necessary to complete the sense of the main verb, I'd tag it "OBJ" rather than the optional "ADV"). Let's take a look at a sentence from Sophocles' *Ajax* as an example:
+This was/is close reading in its most fundamental form. Every word has to be accounted for, including all the little γε's and μέν's, and you have to make decisions about the relationships of words in a sentence, especially when there are a number of interpretations. I found participles particularly challenging. Properly, a participle is an adjectival form of a verb that syntactically modifies a noun, but its translation serves either only to modify that noun (in an attributive relationship, which would require me to tag the participle "ATR") or qualify the circumstances under which the main verb of the sentence is being performed (in a more adverbial sense, which would require me to tag the participle "ADV" and attach it to the main verb rather than the noun that it modifies; further, if the participle is necessary to complete the sense of the main verb, I'd tag it "OBJ" rather than the optional "ADV"). Let's take a look at a sentence from Sophocles' *Ajax* as an example:
 
 > καὶ πῶς ἐπέσχε χεῖρα μαιμῶσαν φόνου; (Soph. *Aj.* 50)  
 "And how did he stay his hand when it was eager for slaughter?"
@@ -47,7 +46,7 @@ I confirmed the lemmata and the parsings through the "morph" section to the righ
 
 ![XML](../images/digital-journey/xml.png "XML")  
 
-Note how μαιμῶσαν attaches to ἐπέσχε rather than χεῖρα. It's a value judgment for sure, but it's one that forces you to make an interpretation based on the evidence in front of you. And this is the process that you have to go through for every word in the text.
+Note how μαιμῶσαν attaches to ἐπέσχε rather than χεῖρα. It's a value judgment for sure, but it's one that forces you to make an interpretation based on the evidence in front of you. And this is the process that you have to go through for every word in the text.
 
 This first instance of treebanking led to a year or so as a treebanker for Perseus. The process involved multiple treebankers working on the same text and a third person, a reconciler, managing differences and producing the final annotation. I read some texts that I wouldn't have read otherwise, including odes of Pindar and Hesiod's *Shield*, and I also had the opportunity to annotate an entire text on my own, Sophocles' *Ajax*, the XML for which you can find [here](https://raw.githubusercontent.com/PerseusDL/treebank_data/master/v2.1/Greek/texts/tlg0011.tlg003.perseus-grc1.tb.xml). It's pretty nifty to see my name on a digital publication of sorts! Even if I'm already seeing mistakes in the first few sentences ...
 
