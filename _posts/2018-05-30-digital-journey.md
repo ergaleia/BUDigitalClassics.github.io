@@ -81,7 +81,7 @@ How cool is that? 😎
 
 The second major stop on my journey towards embracing digital tools for Classics occurred almost a decade after the Homer seminar. In the meantime, I graduated Holy Cross, earned my Masters at NYU, and began my Ph.D. at Boston University. In my last year in the BU program, I started becoming good friends with a rising second year in the program, a certain Ryan Pasco, whose name I hope will be familiar as the co-consul of *ergaleia*.
 
-He mentioned that over the summer, he had spent a week in Texas at a course aimed at teaching humanities scholars how to code. The course, entitled "Help! I'm a Humanist! - Humanities Programming with Python," is part of Humanities Intensive Learning and Teaching (HILT), an annual digital humanities conference geared towards researchers, students, early career scholars, and cultural heritage professionals who want to learn more about applying digital techniques to their work. This year's HILT (with the same Python course, among others) takes place this year in Philadelphia.
+He mentioned that over the summer, he had spent a week in Texas at a course aimed at teaching humanities scholars how to code. The course, entitled "Help! I'm a Humanist! - Humanities Programming with Python," is part of [Humanities Intensive Learning and Teaching (HILT)](http://dhtraining.org/hilt/), an annual digital humanities conference geared towards researchers, students, early career scholars, and cultural heritage professionals who want to learn more about applying digital techniques to their work. This year's HILT (with the same Python course, among others) takes place this year in Philadelphia.
 
 ![HILT](../images/digital-journey/HILT.png "HILT")
 
