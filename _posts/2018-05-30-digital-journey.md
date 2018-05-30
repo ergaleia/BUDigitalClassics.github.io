@@ -1,7 +1,8 @@
 ---
 layout: post
-author: Daniel Libatique
-permalink: /digitaljourney/
+author: 
+- Daniel Libatique
+permalink: /digital-journey/
 ---
 
 # My Journey into the World of Digital Tools for Classics
