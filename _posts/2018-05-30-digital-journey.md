@@ -59,7 +59,7 @@ This first instance of treebanking led to a year or so as a treebanker for Perse
 
 The second major part of the assignment was the part that was quite unfamiliar territory for all of us students in the seminar, except for maybe one or two. We had enough trouble reading and translating Iliadic Greek from our carefully prepared critical editions in modern type, let alone from an image of a manuscript. It was quite an interesting exercise, learning what the manuscript's abbreviations meant and translating them essentially from scratch, as there was no commentary or existing translation to help us on our way.
 
-I'll admit that I don't remember much about the actual outcome of my transcription, translation, and commentary, but the use of digital technology, namely digitized images and the ability to zoom, facilitated the task greatly. Digital tools for Classics doesn't have to entail coding or complex algorithms or crazy detailed knowledge of computer science; they include websites and jpg's and Twitter and other things that we access every day that create for us different modes of experience and engagement than a book or physical photograph would -- not necessarily better (and, arguably, sometimes worse), just different.
+I'll admit that I don't remember much about the actual outcome of my transcription, translation, and commentary, but the use of digital technology, namely digitized images and the ability to zoom, facilitated the task greatly. Digital tools for Classics don't have to entail coding or complex algorithms or crazy detailed knowledge of computer science; they include websites and jpg's and Twitter and other things that we access every day that create for us different modes of experience and engagement than a book or physical photograph would -- not necessarily better (and, arguably, sometimes worse), just different.
 
 The other important takeaway from the experience, now that I look back on it in hindsight, was the ability as an undergraduate to contribute to original and groundbreaking research. My name and the names of my classmates are credited on the [Homer Multitext website](http://www.homermultitext.org/contributors.html). I didn't know as an undergraduate junior what the Homer Multitext Project would become or how our work on the scholia would be used (I'm not sure that anyone did at the time), but to have been part of a project that helps us understand the Homeric poems in novel ways is immensely cool. 
 
@@ -85,7 +85,7 @@ He mentioned that over the summer, he had spent a week in Texas at a course aime
 
 ![HILT](../images/digital-journey/HILT.png "HILT")
 
-Ryan and I got to talking about the types of things that he learned, including working with text as data, and he mentioned that some of the scholarly areas in which I was interested, including tracing shifts in focalization throughout a large text like Ovid's *Metamorphoses*, was totally viable via coding.
+Ryan and I got to talking about the types of things that he learned, including working with text as data, and he mentioned that some of the scholarly areas in which I was interested, including tracing shifts in focalization throughout a large text like Ovid's *Metamorphoses*, were totally viable via coding.
 
 This was me upon hearing that:
 
