@@ -19,7 +19,16 @@ I am not, of course, the first person to look into the idea of mapping social ne
 2) Why I am doing this in the open?  
 Reducing something as complex as 'social relationships' into 
 
-In my first semester of graduate school, I took a seminar on Latin Epistolography. It was my first meaningful look at Cicero's letters; in the process, I became fascinated with one figure, the Etruscan Aulus Caecina, with whom Cicero corresponds (*Ad Fam.* 6.5-8). Over a decade after his own exile, Cicero exchanges letters in 46BCE with Caecina, himself exiled for writing a tract against Caesar (6.7.1). The letters capture the social positions of Aulus Caecina and Cicero in a brief span of time. Caecina the exile seeks Caesar's forgiveness through Cicero as intermediary, gets updates on his son at Rome, and writes a praise-work of Caesar (with Cicero as editor); Cicero gathers information on Caesar's disposition towards Caecina (through Largus, a friend of the Etruscan), communicates with the absent Caesar's associates Balbus and Oppius, and recommends Caecina to T. Furfanius Postumus and his legates. Without these few letters, we would know little about Caecina or about his relationship with elite Romans. As Seneca writes of Cicero's correspondence with Atticus:
+In the way of introduction, a little bit about how I came to the idea: 
+
+In my first semester of graduate school, I took a seminar on Latin Epistolography. It was my first meaningful look at Cicero's letters; in the process, I became fascinated with one figure, the Etruscan Aulus Caecina, with whom Cicero corresponds (*Ad Fam.* 6.5-8). Over a decade after his own exile, Cicero exchanges letters in 46BCE with Caecina, himself exiled for writing a tract against Caesar 
+
+>Adhuc stili poenas dem. Qua quidem in re singulari sum fato. Nam cum mendum scripturae litura tollatur, stultitia fama multetur, meus error exsilio corrigitur. Cuius summa criminis est, quod armatus adversario maledixi (6.7.1).
+ I am still paying the penalty of my writings. And in that respect my fate has no parallel; for while a clerical error is removed by erasure, and fatuity is penalized by publicity, my mistake is corrected by banishment, though the charge against me amounts to no more than my having spoken ill of an adversary when I was actually in arms against him (trans. Williams).
+
+Writing is pow
+
+The letters capture the social positions of Aulus Caecina and Cicero in a brief span of time. Caecina the exile seeks Caesar's forgiveness through Cicero as intermediary, gets updates on his son at Rome, and writes a praise-work of Caesar (with Cicero as editor); Cicero gathers information on Caesar's disposition towards Caecina (through Largus, a friend of the Etruscan), communicates with the absent Caesar's associates Balbus and Oppius, and recommends Caecina to T. Furfanius Postumus and his legates. Without these few letters, we would know little about Caecina or about his relationship with elite Romans. As Seneca writes of Cicero's correspondence with Atticus:
 
 >Nomen Attici perire Ciceronis epistulae non sinunt.
 Cicero's letters do not let the name of Atticus perish.
@@ -28,6 +37,4 @@ My fascination with the letters of Cicero and Caecina, which comprise only a sma
 
 It wasn't until I attended [HILT](http://dhtraining.org/hilt/) in 2017 -- my first pivot towards digital scholarship --  that I learned of a possible approach. A fellow participant introduced me to a [mapping project](http://sites.fhi.duke.edu/ecologyofnetworks/letters-from-distant-lands-carolingian-intellectuals-and-their-networks/) of Carolingian intellectual networks by Clare Woods that uses the program [Gephi](https://gephi.org/). With the tool, a user can easily create and manipulate visualzations, which helps explore and discover patterns in the data. 
 
-A graphing program like Gephi 'social network' captured in Cicero's letters 
-
-
+A graphing program like Gephi 'social network' captured in Cicero's letters
