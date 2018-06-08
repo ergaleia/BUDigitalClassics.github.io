@@ -35,9 +35,8 @@ My interest in the project began in my first semester of graduate school when I 
 
 The letters capture the social positions of Aulus Caecina and Cicero in a brief span of time. Caecina the exile seeks Caesar's forgiveness through Cicero as intermediary, gets updates on his son at Rome, and writes a praise-work of Caesar (with Cicero as editor); Cicero gathers information on Caesar's disposition towards Caecina (through Largus, a friend of the Etruscan), communicates with the absent Caesar's associates Balbus and Oppius, and recommends Caecina to T. Furfanius Postumus and his legates. Without these few letters, we would know little about Caecina or about his relationship with elite Romans. As Seneca writes of Cicero's correspondence with Atticus:
 
->Nomen Attici perire Ciceronis epistulae non sinunt.
-
-Cicero's letters do not let the name of Atticus perish.
+> Nomen Attici perire Ciceronis epistulae non sinunt.
+"Cicero's letters do not let the name of Atticus perish".
 
 Perhaps an overstatement in the case of Atticus, but the spirit of the utterance stands: so much of our knolwedge of the period hangs upon this correspondence. My fascination with the letters of Cicero and Caecina, which comprise only a small portion of the *ad Familiares*, only a small part of the picture of social life captured in the letter collection, gave way to an interest in social relationships in the letters of Cicero more broadly. How detailed of a web of social life can we really draw from Cicero's letters? How do the many minor figures that Cicero mentions or writes about fit in? How do social relations change in conjunction with major political events? How might the web of relationships change based on the type or topic of letter or the addressee? How could I begin to collect and sort through so much data? Though interested in these questions, I didn't know the best way to approach them, given the intimidating size of Cicero's collected letters.
 
