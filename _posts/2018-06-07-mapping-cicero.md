@@ -5,7 +5,7 @@ author:
 permalink: /mapping-cicero-letters/
 ---
 
-# Mapping Cicero's Letters
+# Mapping Social Life Through Cicero's Letters
 
 As I've mentioned before on Twitter, I'm interested in using the visualization tool Gephi to explore social relationships in Cicero's letters:
 
