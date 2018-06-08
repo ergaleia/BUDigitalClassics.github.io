@@ -1,4 +1,11 @@
-#Mapping Cicero's Letters
+---
+layout: post
+author: 
+- Ryan Pasco
+permalink: /mapping-cicero-letters/
+---
+
+# Mapping Cicero's Letters
 
 As I've mentioned before on Twitter, I'm interested in using the visualization tool Gephi to explore social relationships in Cicero's letters:
 
@@ -11,7 +18,7 @@ The benefits of this are two-fold. First, I believe that doing scholarly work in
 
 With that in mind, I'd like to give a brief introduction to what I aim to achieve in the project, how I came to it, and the software I'm using. This is all quite cursory, and will all be followed up in greater depth in future posts as I get further along.
 
-##Goals
+## Goals
 
 My goal is to make an interactive 'web' of individuals represented in Cicero's letters (addressors, addressees, and those named or alluded to within the bodies of the letters themselves) and their relationships with each other as the letters describe them. Each relationship will be dated to allow the user to watch social relationships as they shift over time; further, the relationships will have a number of attributes assigned to them, such as letter number, letter type, topic of letter, social status/ethnic origins of addressee, etc., that will allow the user to filter through the data and intuitively explore specific questions. For example: does the portrait of social life meaningfully differ in letters on philosophical vs. political topics? If so, how? The end-product will be freely available and, I hope, useful for those asking questions of Cicero's letter collection and also as a pedagogical aid for those teaching about the late Republic.
 
@@ -22,18 +29,19 @@ I am not, of course, the first person to look into the idea of mapping social ne
 
 By the end of the project, though, I suspect I'll have ventured pretty far in my own direction, as any attempt to render something as messy as social relationships into a rigid scheme will be pretty different from other attempts and will respond to different obstacles by different means. In part, I make my own attempt in order to better familiarize myself with Gephi and social network analysis in general; in later work, I'd like to use social network analysis to examine competition & allusion in the comic fragments, and this project will be a great learning experience.
 
-##Why This Project?
+## Why This Project?
 
 My interest in the project began in my first semester of graduate school when I took a seminar on Latin epistolography. It was my first meaningful look at Cicero's letters; in the process, I became fascinated with one figure, the Etruscan Aulus Caecina, with whom Cicero corresponds (*Ad Fam.* 6.5-8). Over a decade after his own exile, Cicero exchanges letters in 46BCE with Caecina, himself exiled for writing a tract against Caesar.
 
 The letters capture the social positions of Aulus Caecina and Cicero in a brief span of time. Caecina the exile seeks Caesar's forgiveness through Cicero as intermediary, gets updates on his son at Rome, and writes a praise-work of Caesar (with Cicero as editor); Cicero gathers information on Caesar's disposition towards Caecina (through Largus, a friend of the Etruscan), communicates with the absent Caesar's associates Balbus and Oppius, and recommends Caecina to T. Furfanius Postumus and his legates. Without these few letters, we would know little about Caecina or about his relationship with elite Romans. As Seneca writes of Cicero's correspondence with Atticus:
 
 >Nomen Attici perire Ciceronis epistulae non sinunt.
+
 Cicero's letters do not let the name of Atticus perish.
 
 Perhaps an overstatement in the case of Atticus, but the spirit of the utterance stands: so much of our knolwedge of the period hangs upon this correspondence. My fascination with the letters of Cicero and Caecina, which comprise only a small portion of the *ad Familiares*, only a small part of the picture of social life captured in the letter collection, gave way to an interest in social relationships in the letters of Cicero more broadly. How detailed of a web of social life can we really draw from Cicero's letters? How do the many minor figures that Cicero mentions or writes about fit in? How do social relations change in conjunction with major political events? How might the web of relationships change based on the type or topic of letter or the addressee? How could I begin to collect and sort through so much data? Though interested in these questions, I didn't know the best way to approach them, given the intimidating size of Cicero's collected letters.
 
-##Gephi
+## Gephi
 
 It wasn't until I attended [HILT](http://dhtraining.org/hilt/) in 2017 that I learned of a possible approach. A fellow participant introduced me to a [mapping project](http://sites.fhi.duke.edu/ecologyofnetworks/letters-from-distant-lands-carolingian-intellectuals-and-their-networks/) of Carolingian intellectual networks by Clare Woods that uses the program [Gephi](https://gephi.org/). With Gephi, a user can easily create and manipulate visualizations that help to intuitively explore and discover patterns in data.
 
